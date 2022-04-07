@@ -2,7 +2,8 @@
 
 Bu repo [Patika.dev](www.patika.dev) Java Backend eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![proje fotoğrafı]()
+![proje görüntüsü](https://user-images.githubusercontent.com/102976580/162248235-90f391d0-50a1-4001-81fa-3c32ad2e2a2d.png)
+
 
 # Installation
 

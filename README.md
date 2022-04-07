@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Patika.dev](www.patika.dev) Java Backend eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
+Bu repo [patika.dev](https://www.patika.dev/tr) Java Backend eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ![proje görüntüsü](https://user-images.githubusercontent.com/102976580/162248235-90f391d0-50a1-4001-81fa-3c32ad2e2a2d.png)
 
